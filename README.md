@@ -20,7 +20,7 @@ Some of my favorite **math** topics are:
 ## This is one of my favorite parts of my Japan trip in March 2019, the cherry blossomssss! :heart_eyes: (Thats why it's my h2)
 ![Cherry Blossom Tree in Yoyogi Park, Japan](https://user-images.githubusercontent.com/64452534/80455555-d53fc700-88e0-11ea-9654-056d942b6eaa.png)
 
-https://github.com/rmmo14 
+[Check me out :smile:](https://github.com/rmmo14) 
 
 4/27/2020 Takeaways (1b)
 A few things I took away about markdown from the assigned reading is that it is basically another language with some a bit simpler (*imo*) than **html** and **CSS**.  
