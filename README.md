@@ -17,7 +17,7 @@ Some of my favorite **math** topics are:
 - Discrete Mathematics
 - Linear Algebra
 
-## This is one of my favorite parts of my Japan trip in March 2019, the cherry blossomssss! :heart_eyes:
+## This is one of my favorite parts of my Japan trip in March 2019, the cherry blossomssss! :heart_eyes: (Thats why it's my h2)
 ![Cherry Blossom Tree in Yoyogi Park, Japan](https://user-images.githubusercontent.com/64452534/80455555-d53fc700-88e0-11ea-9654-056d942b6eaa.png)
 
 https://github.com/rmmo14 
