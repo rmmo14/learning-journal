@@ -17,7 +17,7 @@ Some of my favorite **math** topics are:
 - Discrete Mathematics
 - Linear Algebra
 
-
+![Cherry Blossom Tree in Yoyogi Park, Japan](https://user-images.githubusercontent.com/64452534/80455555-d53fc700-88e0-11ea-9654-056d942b6eaa.png)
 
 https://github.com/rmmo14 
 
