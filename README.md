@@ -1,9 +1,9 @@
 # learning-journal
 
-###Growth Mindset
+### Growth Mindset
 >
 
-####How to stay in growth mindset
+#### How to stay in growth mindset
 1. 
 1.
 1.
