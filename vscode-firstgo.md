@@ -1,0 +1,5 @@
+# First time with VS Code
+
+The codes follow formulas and I believe that practicing the syntax often will get me comfortable. I appreciated the examples shown in lecture because it gave a second chance to ask questions. It was a bit difficult completly understanding the reading but after looking through the earlier lines of code when we worked with Ryan helped me know where to go. I created my notes to show step-by-step rules for myself in case I need to refresh my memory. 
+
+I am excited to learn that we can code locally without the need for internet. This is very convinient when working abroad. It is intriguing to note how linking pages with each other is similar to the process we learned in code 101 with repl. I am excited to see how all these languages will go together and how, if any, their formulae relate to each other. 
