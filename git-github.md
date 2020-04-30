@@ -3,7 +3,7 @@
 ## Version Control
 Version control is like a central location that holds files and modifications of files. **Centralized Version Control Systems** (CVCS) is a single server storing all changes and versions that can be accessed by various clients which streamlined the collaboration process for coders. The CVCS has a major vulnerability being that the server as a single point of failure. If it goes down than no one can work on it. 
 
-**Distributed Version Control systems** prevents that failur in CVCS by allowing clients to create mirrored repos. Because so many file versions are created teams can collaborate in various combinations. 
+**Distributed Version Control systems** prevents that failure in CVCS by allowing clients to create mirrored repos. Because so many file versions are created teams can collaborate in various combinations. 
 
 ## Que es GIT?
 
