@@ -94,5 +94,8 @@ List of codes:
 
 **Remote repos**, versions of a project residing online or on a network (collab).
 
+### How to save modifications
+```git status``` | ```git add MODIFIEDFILE``` | ```git commit -m "NOTE"``` | ```git push origin master```
 
+\*Feel free to use ```git status``` thru out 
 
