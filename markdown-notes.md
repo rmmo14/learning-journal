@@ -1,5 +1,7 @@
 # Markdown
 
+**One thing I learned is that on github an html page overrides an md page!**
+
 A few things I took away about markdown from the assigned reading is that it is basically another language with some a bit simpler (*imo*) than **html** and **CSS**.  
 
 I do appreciate the keys to all the syntax and examples. This is how I will go about recalling these syntaxes (synatxi? :dizzy_face:)
