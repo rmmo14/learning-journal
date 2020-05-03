@@ -1,4 +1,5 @@
-# Design and Process
+# HTML
+## Design and Process
 
 When building a site it is important to consider a few factors. 
 
@@ -21,26 +22,26 @@ You can prioritize certain information based on your target audience. Be sure to
 
 Fifth, **how often people visit**. Think about how often you have to update the page. Some services do not require constant updates if their service is not that demanding. The same goes with information and how often it must be updated. 
 
-# Site Maps
+## Site Maps
 
 After knowing what needs to on the site, organize the information into sections. Create a diagram of pages that will be used to structure the site aka **site map**. 
 
 **Card sorting** is a technique used to help determine what information should go on what page. This is done by grouping related information pertaining to the visitor. They then can be grouped together to create different sections of the site. 
 
-# Wireframe
+## Wireframe
 A wireframe is a simple sketch of the key  that will go on each page. It is like the barebones of the site, no color no style just formatting. 
 
-# Using design for your message
+## Using design for your message
 
 + A designer needs to priortize the information communicated on their site. 
 + Where do you want the login link, the contact us link, the about me, etc. Use some styling to make certain information pop out. A **visual hierarchy** is useful to help users focus on the key messages to draw people's attention. 
 + Group together related content.
 
-# Visual Hierarchy
+## Visual Hierarchy
 
 >**Visual hierarchy** refers to the order in which your eyes perceive what they see.
 
-## A few ways to group
+### A few ways to group
 1. **Proximity**: items closer together = more importance
 1. **Closure**: shaping items together creating an irregular shape that can fit in an imaginary box
 1. **Continuance**: items placed in line or curve = more related
@@ -50,10 +51,10 @@ A wireframe is a simple sketch of the key  that will go on each page. It is like
 
 Similarity in designs, repetition of qualities, consistency, headings = more related. 
 
-# Site Navigation
+## Site Navigation
 The site navigation should be **concise**, **clear**, and **selective**, **contextual**, **interactive**, and **consistent**. 
 
-# HTML5
+## HTML5
 ```<article></article>``` acts as a container for any section of a page that could stand on its own. If a page has multiple articles then they will live in their own tags. They can also be nested within each other. 
 
 ```<aside></aside>``` it has two purposes
@@ -83,7 +84,7 @@ Since older browers may not understand some of html5 elements it will display it
 
 ```{display: block;}```
 
-# Extra Markup
+## Extra Markup
 
 ```<!DOCTYPE html>``` tells the browser which version of html to use. It also helps the browser render a page correctly. **It should be the first thing on each page!**
 
@@ -117,3 +118,22 @@ The name attribute of a ```<meta name=""``` tag indicates an intention to specif
 Using ```expires``` instead of ```pragma``` as well as a specific day, date, and time time-zone for the cache to expire. 
 
 Shorcut for copyright is ```&copy``` or ```&#169```, for ```&``` it is ```&amp``` or ```&#38```
+
+# CSS
+
+CSS code is comprised of a selector and declaration, and within the declaration lies a property: value within curlies. 
+
+## linking a CSS file to html
+The link formula is ```<link href="LINK.css" type="TEXT/css" rel="stylesheet">```
+
+You can also do inline CSS code in html using
+```<style type="TEXT/css"> HTML CODE </style>```
+
+### BE CAREFUL! 
+When styling one selector more than once it is IMPORTANT to consider which line of code will come first. If one selector is more specific than the other then it will take precedence. You can use ```!important``` after any property value to emphasize the code should be used. 
+
+```inherit``` can be used as a property value to any property you want to inherit. 
+
+**Text is easier to read when there is higher contrast between background and foreground colors**
+
+```opacity: ``` is a property value that allows you to specify the opacity of an element and its child elements. 
