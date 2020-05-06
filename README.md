@@ -10,6 +10,7 @@
 - [Javascript](javascript-notes.md)
 - [CPU Under the Hood](cpu-logic.md)
 - [Function Notes](function-notes.md)
+- [Loop Notes](loop-notes.md)
 
 Hello, my name is Rene Montoya. I live in Long Beach, California and I decided to use this stay-at-home order to try and learn a new skill. I am interested in coding because I want to learn new methods or old tweak old methods of math instruction/assessment. I am Salvadorian and fluent in Spanish, I like to say I'm conversational in Japanese. I studied mathematics for undergrad and grad school, emphasizing **mathematics education**. :grin:
 
