@@ -19,4 +19,16 @@ There are three types
 Lopps are structured as so:
 ``LOOP (INITIALIZATION; CONDITION; UPDATE){}```
 
-The operator `+=` adds the new content to the variable after it. Basically, if a variable has been declared, using this operator with the updated value following it will set that variable equal to that update...if that makes sense.  
+The operator `+=` adds the new content to the variable after it. Basically, if a variable has been declared, using this operator with the updated value following it will set that variable equal to that update...if that makes sense. 
+
+Syntax for the loops:
+
+`while(true){ ACTION - (until not true)}`
+
+`for (this;many;times){ACTION}`
+
+With the for loop in terms of steps this is what the cpu is doing: 
+
+`for (1st; 2nd (if true); update to 4th){then do 3rd}`
+
+
